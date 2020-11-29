@@ -1,3 +1,9 @@
 [submodule "exercicios-logica-c"]
 	path = exercicios-logica-c
 	url = https://github.com/isquicha/exercicios-logica-c
+[submodule "exercicios-logica-python"]
+	path = exercicios-logica-python
+	url = https://github.com/isquicha/exercicios-logica-python
+[submodule "exercicios-logica-lua"]
+	path = exercicios-logica-lua
+	url = https://github.com/isquicha/exercicios-logica-lua
