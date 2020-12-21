@@ -960,3 +960,8 @@ Faça um programa que calcule o valor de H com N termos.
 #### Exercicio 092
 
 Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
+#### Exercicio 093
+
+Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem
+inversa.
+
