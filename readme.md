@@ -965,3 +965,12 @@ Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.
 Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem
 inversa.
 
+#### [Exercicio 094](exercicios/094.cpp)
+
+Faça um Programa que leia 4 notas, mostre as notas e a média na tela.
+
+#### [Exercicio 095](exercicios/095.cpp)
+
+Faça um Programa que leia um vetor de 10 caracteres, e diga quantas consoantes
+foram lidas. Imprima as consoantes.
+
